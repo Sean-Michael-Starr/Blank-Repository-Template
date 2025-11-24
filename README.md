@@ -1,4 +1,4 @@
-<!-- doc version 0.3.1 alpha -->
+<!-- doc version 0.4.1 alpha -->
 # Blank Repository Template
 A repository containing common files and directory structure that can be used as a template for projects on GitHub and other Version Control Systems. 
 
@@ -7,11 +7,11 @@ A repository containing common files and directory structure that can be used as
 ## Contained Files
 
 # About Files:
-## About readme.md
+## README.md
 ## license.md and licensing
 ### Resources
 - <a href="https://creativecommons.org/chooser/" target="Creative Commons License Chooser">Creative Commons Chooser</a>
-- 
+- <a href="https://choosealicense.com" target="Choose A License">Choose A License</a>
 ## About CODE_OF_CONDUCT.md 
 ## About .gitignore
 ## About robots.txt
