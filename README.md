@@ -1,6 +1,11 @@
-<!-- doc version 0.6.1 alpha -->
+<!-- doc version 0.7.1 alpha -->
 # Blank Repository Template
 A repository containing common files and directory structure that can be used as a template for projects on GitHub and other Version Control Systems. 
+
+- [Directory Structure](#directory-structure)
+- [Contained Files](#contained-files)
+- [About Files](#about-files)
+  - [readme.md](#readmemd)
 
 ## Directory Structure
 
