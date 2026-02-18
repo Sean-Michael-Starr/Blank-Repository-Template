@@ -1,5 +1,6 @@
-<!-- doc version 0.10.1 alpha -->
+<!-- doc version 0.11.1 alpha -->
 # Blank Repository Template
+
 A repository containing common files and directory structure that can be used as a template for projects on GitHub and other Version Control Systems. 
 
 - [Directory Structure](#directory-structure)
@@ -18,8 +19,13 @@ A repository containing common files and directory structure that can be used as
 #### Visual Elements
 - <a href="https://simpleicons.org/" target="SimpleIcons">SimpleIcons</a>
 - <a href="https://badges.pages.dev/" target="Dev Badges">Dev Badges Page</a>
+- <a href="https://www.sheilds.io" target="Shields.io">Sheilds.io</a>
+
+
 ## license.md and licensing
 You can find a list of licenses <a href="https://github.com/Sean-Michael-Starr/Blank-Repository-Template/blob/Assets/Licenses/Licenses.md" target="Collection of Licenses">here</a>, available in code blobs and .txt files.
+
+
 ### External Resources
 - <a href="https://creativecommons.org/chooser/" target="Creative Commons License Chooser">Creative Commons Chooser</a>
 - <a href="https://choosealicense.com" target="Choose A License">Choose A License</a>
@@ -27,8 +33,14 @@ You can find a list of licenses <a href="https://github.com/Sean-Michael-Starr/B
 
 
 ## About CODE_OF_CONDUCT.md 
+
+
 ## About .gitignore
+
+
 ## About robots.txt
+
+
 ## About CHANGELOG.md and Versioning
 ## Repository Settings
 ## Miscellaneous 
