@@ -1,4 +1,4 @@
-<!-- doc version 0.11.1 alpha -->
+<!-- doc version 0.12.1 alpha -->
 # Blank Repository Template
 
 A repository containing common files and directory structure that can be used as a template for projects on GitHub and other Version Control Systems. 
@@ -44,3 +44,5 @@ You can find a list of licenses <a href="https://github.com/Sean-Michael-Starr/B
 ## About CHANGELOG.md and Versioning
 ## Repository Settings
 ## Miscellaneous 
+### Advanced Gitbub Usage
+- <a href="https://docs.github.com/en/authentication/connecting-to-github-with-ssh" target="SSH to Github">Connecting to Github with SSH</a>
