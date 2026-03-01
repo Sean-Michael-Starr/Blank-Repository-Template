@@ -1,4 +1,4 @@
-<!-- doc version 0.15.1 alpha -->
+<!-- doc version 0.16.1 alpha -->
 # Blank Repository Template
 
 A repository containing common files and directory structure that can be used as a template for projects on GitHub and other Version Control Systems. 
@@ -20,6 +20,7 @@ A repository containing common files and directory structure that can be used as
 - <a href="https://simpleicons.org/" target="SimpleIcons">SimpleIcons</a>
 - <a href="https://badges.pages.dev/" target="Dev Badges">Dev Badges Page</a>
 - <a href="https://www.sheilds.io" target="Shields.io">Sheilds.io</a>
+- <a href="https://github.com/badges/awesome-badges" target="Awesome Badges">Awesome Badges Repo</a> by @badges (Shield.io)
 - <a href="https://socialify.git.ci/" target="Socialify">Socialify</a>
 
 ##### Visual Element Notes
