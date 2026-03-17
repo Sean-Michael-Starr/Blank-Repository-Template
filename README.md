@@ -1,4 +1,4 @@
-<!-- doc version 1.18.1-alpha -->
+<!-- doc version 1.19.1-alpha -->
 # Blank Repository Template
 
 A repository containing common files and directory structure that can be used as a template for projects on GitHub and other Version Control Systems. 
@@ -36,6 +36,7 @@ You can find a list of licenses <a href="https://github.com/Sean-Michael-Starr/B
 - <a href="https://choosealicense.com" target="Choose A License">Choose A License</a>
 - <a href="https://www.tldrlegal.com/" target="TL;DR Legal">TL;DR Legal</a>
 - <a href="https://dev.to/buildwebcrumbs/explain-like-im-five-licenses-for-open-source-projects-16ob">Explain Licenses Like I'm Five</a>
+- <a href="https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project">The Legal Side of Opensource</a>
 
 
 ## About CODE_OF_CONDUCT.md 
