@@ -1,4 +1,4 @@
-<!-- doc version 1.19.1-alpha -->
+<!-- doc version 1.20.1-alpha -->
 # Blank Repository Template
 
 A repository containing common files and directory structure that can be used as a template for projects on GitHub and other Version Control Systems. 
@@ -26,6 +26,7 @@ A repository containing common files and directory structure that can be used as
 ##### Visual Element Notes
 - <a href="https://gist.github.com/joncardasis/e6494afd538a400722545163eb2e1fa5" target="Github Article">Storing images in branches</a>
 - <a href="https://project-types.github.io/" target="Project Type">Github Project Types</a>
+- <a href="https://github.blog/developer-skills/github/how-to-make-your-images-in-markdown-on-github-adjust-for-dark-mode-and-light-mode/" target="Github Article - Dark and Light Mode">Github Markdown for dark & light themes</a>
 
 ## license.md and licensing
 You can find a list of licenses <a href="https://github.com/Sean-Michael-Starr/Blank-Repository-Template/blob/Assets/Licenses/Licenses.md" target="Collection of Licenses">here</a>, available in code blobs and .txt files.
