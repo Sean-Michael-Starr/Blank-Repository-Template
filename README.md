@@ -1,4 +1,4 @@
-<!-- doc version 1.20.1-alpha -->
+<!-- doc version 1.21.1-alpha -->
 # Blank Repository Template
 
 A repository containing common files and directory structure that can be used as a template for projects on GitHub and other Version Control Systems. 
@@ -8,14 +8,15 @@ A repository containing common files and directory structure that can be used as
 - [About Files](#about-files)
   - [readme.md](#readmemd)
 
-# Directory Structure
+## Directory Structure
 
-## Contained Files
 
-# About Files:
-## README.md
-### README.md Resources
-#### Guides
+
+## About Files:
+### About ACKNOWLEDGEMENTS.md
+### About README.md
+#### README.md Resources
+##### Guides
 ##### Visual Elements
 - <a href="https://simpleicons.org/" target="SimpleIcons">SimpleIcons</a>
 - <a href="https://badges.pages.dev/" target="Dev Badges">Dev Badges Page</a>
@@ -28,7 +29,7 @@ A repository containing common files and directory structure that can be used as
 - <a href="https://project-types.github.io/" target="Project Type">Github Project Types</a>
 - <a href="https://github.blog/developer-skills/github/how-to-make-your-images-in-markdown-on-github-adjust-for-dark-mode-and-light-mode/" target="Github Article - Dark and Light Mode">Github Markdown for dark & light themes</a>
 
-## license.md and licensing
+### license.md and licensing
 You can find a list of licenses <a href="https://github.com/Sean-Michael-Starr/Blank-Repository-Template/blob/Assets/Licenses/Licenses.md" target="Collection of Licenses">here</a>, available in code blobs and .txt files.
 
 
@@ -40,13 +41,13 @@ You can find a list of licenses <a href="https://github.com/Sean-Michael-Starr/B
 - <a href="https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project">The Legal Side of Opensource</a>
 
 
-## About CODE_OF_CONDUCT.md 
+### About CODE_OF_CONDUCT.md 
 
 
-## About .gitignore
+### About .gitignore
 
 
-## About robots.txt
+### About robots.txt
 
 
 ## About CHANGELOG.md and Versioning
