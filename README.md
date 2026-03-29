@@ -1,17 +1,18 @@
-<!-- doc version 1.0.0-alpha-1.22.1 -->
+<!-- doc version 1.0.0-alpha-1.23.1 -->
 # Blank Repository Template
 
-A repository containing common files and directory structure that can be used as a template for projects on GitHub and other Version Control Systems. 
+A repository containing common files and directory structure that can be used as a template for projects on GitHub and other Version Control Systems.
 
-- [Directory Structure](#directory-structure)
-- [Contained Files](#contained-files)
+## Branches
+
+- [Directory Structure](#directory-structure) (todo)
+- [Contained Files](#contained-files) (todo)
 - [About Files](#about-files)
   - [readme.md](#readmemd)
+ 
+---
 
 ## Directory Structure
-
-
-
 ## About Files:
 ### About ACKNOWLEDGEMENTS.md
 ### About README.md
@@ -94,12 +95,16 @@ You can find a list of licenses <a href="https://github.com/Sean-Michael-Starr/B
 - Reporting procedures
 - Enforcement policies
 
+---
+
 ### 5. **SECURITY.md**
 - Security policy
 - Vulnerability reporting process
 - Contact information for security issues
 - Response time expectations
 - Disclosure guidelines
+
+---
 
 ### 6. **CHANGELOG.md**
 - Version history
