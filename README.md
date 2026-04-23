@@ -1,5 +1,10 @@
-<!-- doc version 1.0.0-alpha-1.23.1 -->
+<!-- doc version 1.0.0-alpha-1.24.1 -->
 # Blank Repository Template
+<div align="center">
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Sean-Michael-Starr/Blank-Repository-Template?style=for-the-badge&logo=github&logoColor=logo&logoSize=auto&labelColor=blue&color=grey)
+
+</div>
 
 A repository containing common files and directory structure that can be used as a template for projects on GitHub and other Version Control Systems.
 
